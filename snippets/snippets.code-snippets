@@ -57,7 +57,7 @@
   },
   "React useEffect": {
     "prefix": "rfu",
-    "body": ["useEffect(() => {", "  $1", "}), [$2]);"],
+    "body": ["useEffect(() => {", "  $1", "}, [$2]);"],
     "description": "Create a React useEffect"
   },
   "NextJS Page": {
@@ -74,5 +74,10 @@
       "export default ${1:ComponentName}"
     ],
     "description": "Create a NextJS page"
+  },
+  "React useCallback": {
+    "prefix": "rcb",
+    "body": ["const ${1:callback} = useCallback((${2:args}) => {", "  $3", "}, [$4]);"],
+    "description": "Create a React useCallback"
   }
 }
