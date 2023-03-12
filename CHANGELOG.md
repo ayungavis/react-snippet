@@ -5,7 +5,10 @@ All notable changes to the "react-typescript-snippet" extension will be document
 The format is based on [Keep a Changelog](http://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [Unreleased]
+## [0.0.7] - 2023-04-10
+
+- Fixed `rfu` typo
+- Added `rcb` snippet to create a React useCallback function
 
 ## [0.0.6] - 2023-04-10
 
