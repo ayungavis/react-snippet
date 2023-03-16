@@ -1,8 +1,9 @@
 {
   "name": "react-typescript-snippet",
-  "displayName": "React TypeScript Snippet",
+  "displayName": "React TypeScript Snippet - Ayung Avis",
   "description": "A React code snippet VSCode extension is a tool that allows developers to quickly insert code snippets into their React projects. ",
   "version": "0.0.1",
+  "publisher": "ayungavis",
   "author": {
     "name": "Wahyu Kurniawan",
     "email": "ayungavis@gmail.com"
