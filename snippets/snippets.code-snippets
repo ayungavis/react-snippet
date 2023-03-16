@@ -1,0 +1,28 @@
+{
+  "React Forward Component": {
+    "prefix": "rfrc",
+    "body": [
+      "import { forwardRef, ComponentPropsWithoutRef } from 'react';",
+      "",
+      "export interface ${1:ComponentName}Props extends ComponentPropsWithoutRef<'${2:div}'> {",
+      "",
+      "}",
+      "",
+      "const ${1:ComponentName} = forwardRef<${3:ElementRef}, ${1:ComponentName}Props>(({",
+      "  className",
+      "  ...props",
+      "}, ref) => {",
+      "  return (",
+      "    <${2:div} ref={ref} className={cn${5}(className)} {...props}>",
+      "      $4",
+      "    </${2:div}>",
+      "  );",
+      "});",
+      "",
+      "${1:ComponentName}.displayName = '${1:ComponentName}';",
+      "",
+      "export { ${1:ComponentName} }"
+    ],
+    "description": "Create a React forward component"
+  }
+}
