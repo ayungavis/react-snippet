@@ -7,7 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
-- React function component with props `rfc`
+## [0.0.5] - 2023-03-18
+
+- Added `rfc` snippet to create a React function component
+- Added `rsu` snippet to create a React useState
+- Added `rfu` snippet to create a React useEffect
+- Added `np` snippet to create a NextJS page
 
 ## [0.0.2] - 2023-03-17
 
