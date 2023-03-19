@@ -4,7 +4,7 @@
   "description": "A React code snippet VSCode extension is a tool that allows developers to quickly insert code snippets into their React projects. ",
   "version": "0.0.7",
   "scripts": {
-    "publish": "vsce publish"
+    "release": "vsce publish"
   },
   "publisher": "ayungavis",
   "author": {
