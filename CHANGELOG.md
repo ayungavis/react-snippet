@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [0.0.6] - 2023-04-10
+
+- Remove `FunctionComponent` from `rfc` snippet
+
 ## [0.0.5] - 2023-03-18
 
 - Added `rfc` snippet to create a React function component
