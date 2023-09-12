@@ -5,7 +5,11 @@ All notable changes to the "react-typescript-snippet" extension will be document
 The format is based on [Keep a Changelog](http://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [0.0.7] - 2023-05-23
+## [0.0.9] - 2023-09-12
+
+- Update `{...props}` to not override the custom props
+
+## [0.0.8] - 2023-05-23
 
 - Fix typo of the date in the changelog `v0.0.7`
 
