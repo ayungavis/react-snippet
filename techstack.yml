@@ -1,0 +1,18 @@
+repo_name: ayungavis/react-typescript-snippet
+report_id: 3da3a1f540af5897d9c4ebd93eb970a1
+repo_type: Public
+timestamp: '2023-11-24T02:03:58+00:00'
+requested_by: ayungavis
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
